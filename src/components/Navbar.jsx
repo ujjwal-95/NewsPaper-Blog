@@ -28,6 +28,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center py-4">
           <img src={logo} alt="Logo" className="h-16 w-auto object-contain scale-190" />
 
+
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-6 items-center">
             {/* Categories Dropdown */}
