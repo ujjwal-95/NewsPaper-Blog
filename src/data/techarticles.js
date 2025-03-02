@@ -1,5 +1,5 @@
-import img1 from "../asset/Techimg1.jpg"
-import img2 from "../asset/Techimg2.jpg"
+import img1 from "../assets/Techimg1.jpg"
+import img2 from "../assets/Techimg2.jpg"
 export const techArticles = [
   { id: 1, title: "The Rise of AI in Everyday Life", image: img1,description:"Artificial Intelligence (AI) has transformed the way we live, work, and interact. From virtual assistants like Siri and Alexa to AI-driven healthcare solutions, technology is integrating into our daily routines. Businesses leverage AI for automation, while self-driving cars and smart homes redefine convenience. However, ethical concerns and data privacy remain significant challenges. As AI continues evolving, its impact will only deepen, making it a crucial part of our future.",category: "tech", },
 
